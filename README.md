@@ -4,7 +4,7 @@
 - 📘 I'm currently learning everything about frontend development and UI/UX
 - 🧙 I'm a <a href="https://github.com/dheerajsinghnagdali/type-challenges">Typescript wizard</a>
 - 👀 I'm looking to collaborate on more open source projects.
-- 🧠 I'm interested in development and competitive coding.
+- 🧠 I'm interested in frontend development and Web Accessibility.
 - 📣 Ask me anything <a href="https://github.com/dheerajsinghnagdali/dheerajsinghnagdali/issues">here</a> related to **frontend development** and **Web Accessibility**
 - 📲 Connect with me via <a href="https://instagram.com/officiallydheeraj">Instagram</a>, <a href="https://twitter.com/devdotdheeraj">Twitter</a>, <a href="https://linkedin.com/in/dheerajsinghnagdali">Linkedin</a>, <a href="https://www.facebook.com/dheeraj.singhnagdali.3">Facebook</a>, and <a href="https://t.me/dheerajsinghnagdali">Telegram</a>
 
