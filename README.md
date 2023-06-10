@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm a frontend developer.</h1>
 
 - 💼 Freelance developer on [Fiverr](http://fiverr.com/dheerajnagdali)
-- 📘 I'm currently learning everything about frontend development and UI/UX
+- 📘 I'm currently learning everything about frontend development
 - 🧙 I'm a <a href="https://github.com/dheerajsinghnagdali/type-challenges">Typescript wizard</a>
 - 👀 I'm looking to collaborate on more open source projects.
 - 🧠 I'm interested in frontend development and Web Accessibility & Performance.
