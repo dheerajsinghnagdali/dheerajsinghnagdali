@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm a frontend developer.</h1>
+<h1 align="center">👋, I'm a React/Next.js developer</h1>
 
 - 💼 React/Next.js developer on [Fiverr](http://fiverr.com/dheerajnagdali)
 - 📘 I'm currently learning everything about frontend development
