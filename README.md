@@ -4,7 +4,7 @@
 - 📘 I'm currently learning everything about frontend development
 - 🧙 I'm a <a href="https://github.com/dheerajsinghnagdali/type-challenges">Typescript wizard</a>
 - 👀 I'm looking to collaborate on more open source projects.
-- 🧠 I'm interested in **frontend development, Web Accessibility, Web Security, Design Systems, Search Engine Optimization (SEO) & Performance**.
+- 🧠 I'm interested in **frontend development, Web Accessibility, Web Security, Design Systems, Search Engine Optimization (SEO) & Web Performance**.
 - 📣 Ask me anything <a href="https://github.com/dheerajsinghnagdali/dheerajsinghnagdali/issues">here</a> related to **frontend development**
 - 📲 Connect with me via <a href="https://instagram.com/officiallydheeraj">Instagram</a>, <a href="https://twitter.com/devdotdheeraj">Twitter</a>, <a href="https://linkedin.com/in/dheerajsinghnagdali">Linkedin</a>, <a href="https://www.facebook.com/dheeraj.singhnagdali.3">Facebook</a> & <a href="https://t.me/dheerajsinghnagdali">Telegram</a>
 
