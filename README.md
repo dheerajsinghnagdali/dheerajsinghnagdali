@@ -1,6 +1,5 @@
 <h1 align="center">👋, I'm a React/Next.js developer</h1>
 
-- 💼 React/Next.js developer on [Fiverr](http://fiverr.com/dheerajnagdali)
 - 📘 I'm currently learning everything about frontend development
 - 🧙 I'm a <a href="https://github.com/dheerajsinghnagdali/type-challenges">Typescript wizard</a>
 - 👀 I'm looking to collaborate on more open source projects.
