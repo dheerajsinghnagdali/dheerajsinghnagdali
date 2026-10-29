@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm a React/Next.js developer</h1>
+<h1 align="center">👋, I'm a frontend developer</h1>
 
 - 📘 I'm currently learning everything about frontend development
 - 🧙 I'm a <a href="https://github.com/dheerajsinghnagdali/type-challenges">Typescript wizard</a>
