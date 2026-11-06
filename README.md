@@ -7,9 +7,6 @@
 - 📣 Ask me anything <a href="https://github.com/dheerajsinghnagdali/dheerajsinghnagdali/issues">here</a> related to **frontend development**
 - 📲 Connect with me via <a href="https://bsky.app/profile/officialdheeraj.bsky.social">Bluesky</a> or <a href="https://linkedin.com/in/dheerajsinghnagdali">Linkedin</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerajsinghnagdali&show_icons=true&theme=radical&hide_border=true" alt="Dheeraj Singh Nagdali's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></a> |
-| --- | --- |
-
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dheeraj Singh Nagdali's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajsinghnagdali&theme=radical&hide_border=true"/>
